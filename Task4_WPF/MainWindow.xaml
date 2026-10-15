@@ -1,0 +1,31 @@
+﻿<Window x:Class="QuadraticEquationWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Квадратне рівняння" Height="400" Width="300">
+    <StackPanel Margin="15">
+        <Label Content="Введіть a:"/>
+        <TextBox x:Name="txtA" Margin="0,0,0,5"/>
+
+        <Label Content="Введіть b:"/>
+        <TextBox x:Name="txtB" Margin="0,0,0,5"/>
+
+        <Label Content="Введіть c:"/>
+        <TextBox x:Name="txtC" Margin="0,0,0,10"/>
+
+        <Button Content="Обчислити" Click="BtnCalculate_Click" Padding="5" Margin="0,0,0,15"/>
+
+        <!-- Поле для повідомлень про помилки або статус -->
+        <TextBlock x:Name="txtMessage" FontWeight="Bold" Margin="0,0,0,10" TextWrapping="Wrap"/>
+
+        <!-- Поле для дискримінанту -->
+        <Label x:Name="lblD" Content="Дискримінант: -" FontWeight="Bold"/>
+
+        <!-- Елементи для X1 (за замовчуванням сховані) -->
+        <Label x:Name="lblX1" Content="Корінь X1:" Visibility="Hidden"/>
+        <TextBox x:Name="txtX1" IsReadOnly="True" Visibility="Hidden" Margin="0,0,0,5"/>
+
+        <!-- Елементи для X2 (за замовчуванням сховані) -->
+        <Label x:Name="lblX2" Content="Корінь X2:" Visibility="Hidden"/>
+        <TextBox x:Name="txtX2" IsReadOnly="True" Visibility="Hidden"/>
+    </StackPanel>
+</Window>
