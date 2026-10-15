@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hata\\Desktop\\OOPLab2\\Task3_Console\\Task3_Console.csproj": {}
+    "C:\\Users\\Hata\\Desktop\\OOPLab2\\Task3_console\\Task3_Console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hata\\Desktop\\OOPLab2\\Task3_Console\\Task3_Console.csproj": {
+    "C:\\Users\\Hata\\Desktop\\OOPLab2\\Task3_console\\Task3_Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hata\\Desktop\\OOPLab2\\Task3_Console\\Task3_Console.csproj",
+        "projectUniqueName": "C:\\Users\\Hata\\Desktop\\OOPLab2\\Task3_console\\Task3_Console.csproj",
         "projectName": "Task3_Console",
-        "projectPath": "C:\\Users\\Hata\\Desktop\\OOPLab2\\Task3_Console\\Task3_Console.csproj",
+        "projectPath": "C:\\Users\\Hata\\Desktop\\OOPLab2\\Task3_console\\Task3_Console.csproj",
         "packagesPath": "C:\\Users\\Hata\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hata\\Desktop\\OOPLab2\\Task3_Console\\obj\\",
+        "outputPath": "C:\\Users\\Hata\\Desktop\\OOPLab2\\Task3_console\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hata\\AppData\\Roaming\\NuGet\\NuGet.Config"

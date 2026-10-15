@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task4_WPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0987395b10e471f873de15009d8131fea4c955b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task4_WPF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task4_WPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

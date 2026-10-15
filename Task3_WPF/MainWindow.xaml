@@ -1,4 +1,4 @@
-﻿<Window x:Class="Task3Variant4.MainWindow"
+﻿<Window x:Class="Task3_WPF.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Завдання 3 (Варіант 4)" Height="300" Width="350">

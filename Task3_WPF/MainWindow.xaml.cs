@@ -53,7 +53,7 @@ namespace Task3_WPF
 
             
             txtResult.Foreground = Brushes.Green; 
-            
+         
             txtResult.Text = $"Результат: s = {Math.Round(s, 3):F3}";
         }
     }
